@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import ComponentDetail from "./ComponentDetail";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
           <div className="text">Nice blog post!</div>
         </div>
       </div>
+      <ComponentDetail />
     </div>
   );
 };
