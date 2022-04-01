@@ -6,7 +6,6 @@ import ApprovalCard from "./ApprovalCard";
 const App = () => {
   return (
     <div className="ui container comments">
-      <ApprovalCard />
       <div className="comment">
         <a className="avatar" href="/">
           <img src="" />
@@ -21,7 +20,9 @@ const App = () => {
           <div className="text">Nice blog post!</div>
         </div>
       </div>
-      <ComponentDetail author="Jeff" />
+      <ApprovalCard>
+        <ComponentDetail author="Jeff" />
+      </ApprovalCard>
     </div>
   );
 };
