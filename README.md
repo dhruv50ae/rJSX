@@ -4,7 +4,8 @@
 - ⚠️THIS IS AN INITIAL PROJECT, NOT INDICATIVE OF CURRENT/FUTURE SKILLS⚠️
 ## Images
 
-IMAGE HERE
+<img src = "https://cdn.discordapp.com/attachments/229247596571525120/972935407694147654/unknown.png" />
+
 ## Description
 
 - Simple blog post application
